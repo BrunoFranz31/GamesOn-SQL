@@ -1,0 +1,74 @@
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.exe
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.deps.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.runtimeconfig.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.runtimeconfig.dev.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.Views.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\bin\Debug\netcoreapp3.1\TENTATIVA2.Views.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.csprojAssemblyReference.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.AssemblyInfoInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.AssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.csproj.CoreCompileInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorAssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.TagHelpers.input.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.TagHelpers.output.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorCoreGenerate.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorTargetAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorTargetAssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.Views.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\staticwebassets\TENTATIVA2.StaticWebAssets.Manifest.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\staticwebassets\TENTATIVA2.StaticWebAssets.xml
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.genruntimeconfig.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\TENTATIVA2.csproj.CopyComplete
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrinho.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Conta.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginA.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginP.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\TENTATIVA2\obj\Debug\netcoreapp3.1\Razor\Views\Home\User.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.csprojAssemblyReference.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.AssemblyInfoInputs.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.AssemblyInfo.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.csproj.CoreCompileInputs.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorAssemblyInfo.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorAssemblyInfo.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.TagHelpers.input.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.TagHelpers.output.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorCoreGenerate.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carrinho.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Conta.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginA.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginP.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\User.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorTargetAssemblyInfo.cache
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.RazorTargetAssemblyInfo.cs
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.dll
+C:\Users\Giova\OneDrive\Área de Trabalho\GamesOnMVC-main\obj\Debug\netcoreapp3.1\TENTATIVA2.pdb

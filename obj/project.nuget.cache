@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/eXr3cexnqMyXwITof5yI2xMoxb+xxrz5km+g9eh6zaqBXQeAMx29MBOd+tudN5Poqc+yTQkE+NWfmFBTGdrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giova\\OneDrive\\Área de Trabalho\\GamesOnMVC-main\\TENTATIVA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giova\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\Giova\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,51 @@
+@using Microsoft.AspNetCore.Http;
+@model Usuarios
+
+@{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+
+<head>
+</head>
+
+<body>
+
+    <main>
+        <div>
+            <h3 class="titulos">ENTRE COM SUA CONTA</h3>
+        </div>
+        <form class="form-style" action="Login" method="POST">
+            <label class="label-style" asp-for="nomeUsuario">Login:</label>
+            <input class="input-style" asp-for="nomeUsuario" name="nome" placeholder="Seu nick" required>
+            <label class="label-style" asp-for="senha">Senha:</label>
+            <input class="input-style" type="password" asp-for="senha" name="senha" placeholder="Sua senha" required>
+            <input type="submit" value="Acessar" class="input-button">
+            <p class="mensagem-style">@ViewBag.Sucesso</p>
+        </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>2022 - FranzDeveloper 🚀</p>
+    </footer>
+
+</body>
+
+</html>

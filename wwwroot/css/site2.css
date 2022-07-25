@@ -1,0 +1,432 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 1px;
+}
+
+
+footer{
+   margin-top: 610px;
+}
+
+
+main button{
+    position: absolute;
+    margin-top: 20px;
+}
+
+#menu img{
+    padding: 10px;
+   border: ridge;
+   border-color: gray;
+}
+
+
+.areas{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(60, 60, 60);
+}
+
+
+#menu-h .logo{
+    position: absolute;
+    left: 35px;
+    top: 7px;
+
+}
+
+
+#menu-h{
+    list-style-type: none;
+    padding: 0;
+    background-color: rgb(25, 20, 63);
+    text-align: right;
+
+    
+}
+
+#menu-h li{
+    display: inline;
+    margin-right: 10px;
+}
+
+#menu-h li a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    padding: 20px;
+}
+
+#menu-h li a:hover{
+    background-color: rgb(38, 32, 80)
+}
+
+#menu-h .carrinho{
+    background-color: rgb(255, 200, 3);
+    padding: 12px;
+   
+}
+
+#menu-h .carrinho li a:hover{
+    background-color: rgb(255, 200, 3);
+    padding: 12px;
+    display: inline;
+   
+}
+
+#menu-h .carrinho a{
+    color: rgb(38, 32, 80);
+}
+
+
+.anuncio{
+    background-color: rgb(38, 32, 80);
+    color: rgb(255, 200, 3);
+    padding: 7.5px;
+    text-align: center;
+}
+
+#divBusca{
+    border:solid 1px rgb(255, 255, 255);
+    border-radius:3px;
+    height:37px;
+    width:400px;
+    margin-top: 25px;
+  }
+
+#divBusca input{
+    color: #fff;
+}
+
+
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:226px;
+  }
+
+  #btnBusca{
+    float:left;
+    cursor:pointer;
+  }
+
+  #divBusca img{
+    float:left;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 350px;
+    margin-top: -27.3px;
+    height: 25px;
+  }
+
+
+  
+  .categoria{
+      position: absolute;
+      margin-top: -640px;
+      font-size: 20px;
+      background-color: rgb(38, 32, 80);
+      padding: 10px;
+      color: #fff;
+  }
+
+  .categoria1{
+    position: absolute;
+    font-size: 20px;
+    background-color: rgb(38, 32, 80);
+    padding: 10px;
+    color: #fff;
+    top: 817px;
+}
+
+
+
+
+h3{
+    color: white;
+}
+
+
+
+
+
+ .fileiras{
+     list-style: none;
+     display: flex;
+     margin: 230px;
+     margin-top: 160px;
+     padding: 10px;
+ }
+
+ .fileira1 h3{
+     color: #fff;
+     justify-content: space-between;
+     padding: 5px;
+ }
+
+ button{
+     background-color: rgb(38, 32, 80);
+     color: #fff;
+     height: 35px;
+     width: 165px;
+    font-size: 11px;
+ }
+
+
+.questao{
+   text-align: center;
+   margin-top: 65px;
+    
+}
+
+ .questao a{
+    color: white;
+    text-decoration: none;
+}
+
+
+footer{
+    background-color:  rgb(38, 32, 80);
+    color: #fff; 
+    text-align: center;
+
+}
+
+
+#perguntaQuestao{
+    color: #fff;
+
+}
+
+
+
+
+.questao .opcao{
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 3em;
+}
+
+.questao .opcao #sim{
+    display: flex;
+    background-color: rgb(255, 200, 3);
+    width: 90px;
+}
+
+.questao .opcao #nao{
+    display: flex;
+    background-color: rgb(38, 32, 80);
+    width: 90px;
+
+}
+
+.form{
+display: flex;
+margin-top: 50px;
+color: white;
+
+}
+
+
+.form input{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+}
+
+
+#cadastro input{
+    height: 30px;
+    width: 120px;
+    background-color: rgb(255, 200, 3);
+}
+
+#cadastro input:hover{
+    height: 30px;
+    width: 120px;
+    background-color:  rgb(255, 250, 10);
+}
+
+
+.logando{
+    display:flexbox;
+    margin-top: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.logando input{
+    height: 30px;
+    width: 200px;
+}
+
+
+.usuarios{
+    text-align: center;
+    margin-top: 90px;
+    color: white;
+}
+
+.usuarios a{
+    display: flex;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: rgb(82, 82, 82);
+}
+
+
+
+.sobre h2{
+    background-color: #fff;
+    text-align: left;
+    margin-top: 70px;
+    width: 200px;
+    height: 35px;
+}
+
+.sobre span{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(205, 205, 205);
+    color: rgb(255, 200, 3);
+}
+
+#imgLuis{
+    display: flex;
+}
+
+#redesSociais{
+    background-color: rgb(25, 20, 63);
+    color: #fff;
+    margin-top: 90px;
+    padding: 10px;
+    height: 50px;
+    width: 155px;
+    text-align: left;
+    white-space : nowrap;
+}
+
+.sociais{
+   display: flex;
+   padding: 300px;
+   margin-top: -200px;
+   height: 75px;
+
+}
+
+.sociais img{
+    border: solid;
+    border-color: rgb(25, 20, 63);
+}
+
+#funcionamento{
+    color: rgb(255, 200, 3);
+    text-align: center;
+}
+
+#quadrado {
+   display: flex;
+   position: absolute;
+   margin-top: 80px;
+   margin-left: 210px;
+    background: white;
+    width: 300px;
+    height: 50px;
+    box-shadow: 7px 7px 5px rgb(54, 54, 54);
+}
+
+#quadrado button{
+    position: absolute;
+    text-align: right;
+    height: 50px;
+    width: 40px;
+    margin-top: 0px;
+    margin-left: 270px;
+    background-color: rgb(255, 200, 3);
+}
+
+#quadrado buttom img{
+    height: 10px;
+
+}
+
+
+#quadrado label{
+margin-top: 15px;
+}
+
+
+#retangulo2{
+    position: absolute;
+     background: rgb(255, 255, 255);
+     width: 300px;
+     height: 400px;
+     margin-left: 0px;
+     margin-top: 75px;
+     text-align: center;
+ }
+
+#retangulo{
+   position: absolute;
+    background: rgb(38, 32, 80);
+    width: 300px;
+    height: 400px;
+    margin-left: 850px;
+    margin-top: 75px;
+}
+
+#adicao{
+    position: absolute;
+    color: white;
+    padding: 20px;
+    
+}
+
+#categoria{
+    position: relative;
+    background: rgb(38, 32, 80);
+    width: 300px;
+    height: 80px;
+    margin-left: 250px;
+    margin-top: 75px;
+}
+
+
+#categoria h3{
+    color: rgb(38, 32, 80);
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: white;
+}
+
+
+#tabelaCat{
+    position: absolute;
+    background: rgb(38, 32, 80);
+    width: 300px;
+    height: 400px;
+    margin-left: 0px;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+
